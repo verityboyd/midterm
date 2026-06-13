@@ -38,3 +38,4 @@ Keys are stored in `.env.local` locally and Azure App Settings in production. Ne
 - Best accuracy with English text
 - No user authentication on this prototype
 - Dashboard reloads all blobs on each page load — will slow down at scale
+- Sentiment analysis can be less reliable on very short comments or informal language.
