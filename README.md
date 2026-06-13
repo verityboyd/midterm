@@ -31,7 +31,7 @@ Keys are stored in `.env.local` locally and Azure App Settings in production. Ne
 
 - **Azure App Service** — hosts the Next.js app
 - **Azure Blob Storage** — stores feedback as JSON
-- **Azure AI Language** — sentiment analysis and key phrase extraction
+- **Azure AI Language** — sentiment analysis
 
 ## Known Limitations
 
